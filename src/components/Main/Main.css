@@ -1,0 +1,22 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    background: darkgray;
+    margin: 0;
+}
+
+.red{
+    background: red;
+    padding: 50px 100px;
+}
+.blue{
+    background: blue;
+    padding: 50px 100px;
+}
+.green{
+    background: green;
+    padding: 50px 100px;
+}

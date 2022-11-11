@@ -1,0 +1,12 @@
+.aceptar{
+    background:green;
+    color: white;
+    padding: 30px 60px;
+    border-radius: 20px;
+}
+.cancelar{
+    background:red;
+    color: white;
+    padding: 30px 60px;
+    border-radius: 20px;
+}
